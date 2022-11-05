@@ -10,5 +10,6 @@ package com.qyc;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git00");
+        System.out.println("hello git01");
     }
 }
